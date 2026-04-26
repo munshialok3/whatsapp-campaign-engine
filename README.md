@@ -331,7 +331,7 @@ MIT — use it, modify it, ship it. Attribution appreciated but not required.
 **Alok Munshi** — Senior Growth Analyst at Eternal (Zomato). I build the infrastructure I wish existed.
 
 - [LinkedIn](https://linkedin.com/in/munshialok) — Full technical breakdown post
-- [Portfolio](https://alok-ai-lab.vercel.app) — More projects
+- [Portfolio](https://alok-munshi-portfolio.vercel.app) — More projects
 - [GitHub](https://github.com/munshialok3)
 
 ---
